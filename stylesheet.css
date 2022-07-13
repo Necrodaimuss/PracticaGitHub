@@ -1,0 +1,15 @@
+.contenedor {
+    display: flex;
+}
+
+h1 {
+    text-align: center;
+    align-items: center;
+    color: aqua;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;    
+}
+
+h3 {
+    color: burlywood;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;    
+}
